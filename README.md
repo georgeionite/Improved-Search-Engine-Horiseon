@@ -4,7 +4,7 @@ This project is a website for Horiseon, a company specializing in Search Engine 
 
 ## Screenshot 
 
-![Horiseon homepage] (assets\images\horiseon-homepage.jpeg)
+![Horiseon homepage](assets/images/horiseon-homepage.jpeg)
 
 ## Accessibility Improvements
 To ensure that the Horiseon website is accessible, the following steps were taken:
