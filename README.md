@@ -2,6 +2,10 @@
 
 This project is a website for Horiseon, a company specializing in Search Engine Optimization and Social Marketing services. The primary objective of this project was to ensure the website meets accessibility standards and to improve the organization of the CSS code.
 
+## Screenshot 
+
+![Horiseon homepage] (assets\images\horiseon-homepage.jpeg)
+
 ## Accessibility Improvements
 To ensure that the Horiseon website is accessible, the following steps were taken:
 
