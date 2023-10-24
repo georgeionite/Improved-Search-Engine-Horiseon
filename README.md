@@ -38,3 +38,4 @@ To use this project, simply clone the repository and open the `index.html` file 
 
 ## Deployment 
 To view the project, follow the sequential link: 
+<https://georgeionite.github.io/Improved-Search-Engine-Horiseon/>
